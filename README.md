@@ -54,5 +54,5 @@ My toolkit includes:
 I'm always open to collaboration, answering questions, or just chatting about tech. Feel free to reach out:
 
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/fabio-vargas-b895551a4/)
-- Email: [fhvargas.work@gmail.com](fhvargas.work@gmail.com)
+- Email: [fhvargas.work@gmail.com](mailto:fhvargas.work@gmail.com)
 
