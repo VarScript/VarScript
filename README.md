@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <p align="center">
-  <img src="your_profile_image_url_here" alt="Your Name" width="200" height="200">
+  <img src="https://i.pinimg.com/originals/b9/ff/0a/b9ff0a14da68715d495b0c6d55fc1b28.gif" alt="Fabio" width="200" height="200">
 </p>
 
 <h1 align="center">Hi there! 👋 I'm Fabio Vargas</h1>
@@ -23,12 +23,20 @@ Explore some of my proudest creations:
 This is a Rest Server built on the Node.js Zero to Expert course on Udemy. It has the CRUD matrix (Create, Read, Update and Delete). It is make with Postman, an application that we are permitted tested pettition HTTPS reques
 
 ### 🚀 [Bill system](https://github.com/VarScript/project-bill-system)
-project to develop an API with NestJS that will manage a billing system. The main objective is to create a platform that allows the creation, consultation, update and deletion of third party invoices, invoices, concepts and invoice details. TypeORM to interact with a local MySQL database.
+Project to develop an API with NestJS that will manage a billing system. The main objective is to create a platform that allows the creation, consultation, update and deletion of third party invoices, invoices, concepts and invoice details. TypeORM to interact with a local MySQL database.
+
+### 🌐 [Rest server with Nestjs](https://github.com/VarScript/project-nest-api)
+Rest server with Nestjs and prisma with Jwt
+
+### 🚀 [Portfolio](https://varscript.github.io)
+Portfolio
 
 <!-- Experience Section -->
 ## 💼 Experience
 
-Despite being a student, I've had the privilege of working on exciting projects and learning from industry experts. My goal is continuous growth as a software engineer.
+Data Entry and Graphic designer
+
+I've had the privilege of working on exciting projects and learning from industry experts. My goal is continuous growth as a software engineer. 
 
 <!-- Skills Section -->
 ## 🛠️ Skills
@@ -45,8 +53,8 @@ My toolkit includes:
 
 I'm always open to collaboration, answering questions, or just chatting about tech. Feel free to reach out:
 
-- LinkedIn: [Your LinkedIn Profile](www.linkedin.com/in/fabio-vargas-b895551a4)
-- Email: [Your Email Address](mailto:fhvargas.work@gmail.com)
+- LinkedIn: [LinkedIn Profile](www.linkedin.com/in/fabio-vargas-b895551a4)
+- Email: [fhvargas.work@gmail.com](mailto:fhvargas.work@gmail.com)
 
 <!-- Footer Section -->
 <div align="center">
