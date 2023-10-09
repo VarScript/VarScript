@@ -29,7 +29,7 @@ Project to develop an API with NestJS that will manage a billing system. The mai
 Rest server with Nestjs and prisma with Jwt
 
 ### 🚀 [Portfolio](https://varscript.github.io)
-Portfolio
+This is my personal portfolio where you will find more of my academic and professional information.
 
 <!-- Experience Section -->
 ## 💼 Experience
@@ -53,10 +53,6 @@ My toolkit includes:
 
 I'm always open to collaboration, answering questions, or just chatting about tech. Feel free to reach out:
 
-- LinkedIn: [LinkedIn Profile](www.linkedin.com/in/fabio-vargas-b895551a4)
-- Email: [fhvargas.work@gmail.com](mailto:fhvargas.work@gmail.com)
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/fabio-vargas-b895551a4/)
+- Email: [fhvargas.work@gmail.com](fhvargas.work@gmail.com)
 
-<!-- Footer Section -->
-<div align="center">
-  <img src="your_footer_image_url_here" alt="Footer Image" width="400">
-</div>
