@@ -19,10 +19,10 @@ I'm a driven software engineering enthusiast with a knack for turning ideas into
 
 Explore some of my proudest creations:
 ### 🌐 [Rest Api with Loging Auth on NestJs](https://github.com/VarScript/project-nest-api)
-Rest server with Nestjs and prisma with Jwt
+The Nest.js application is a user and bookmark management platform that offers a set of essential functionalities. Users can securely register (signup) and subsequently log in (signin) using JWT tokens for authentication. Additionally, users can access and edit their profile information as needed.
 
 ### 🚀 [Bill system on NestJs](https://github.com/VarScript/project-bill-system)
-Project to develop an API with NestJS that will manage a billing system. The main objective is to create a platform that allows the creation, consultation, update and deletion of third party invoices, invoices, concepts and invoice details. TypeORM to interact with a local MySQL database.
+Presenting our NestJS API project: a powerful billing system. Our primary goal is to deliver a platform that facilitates the creation, retrieval, updating, and deletion of billed entities, invoices, and concepts. Leveraging TypeORM, we seamlessly interact with a local MySQL database, ensuring efficient data management.
 
 ### 🌐 [Rest Api On Node.js](https://github.com/VarScript/project-restserver-nodejs)
 This is a Rest Server built on the Node.js Zero to Expert course on Udemy. It has the CRUD matrix (Create, Read, Update and Delete). It is make with Postman, an application that we are permitted tested pettition HTTPS reques
