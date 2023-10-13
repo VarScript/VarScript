@@ -18,15 +18,14 @@ I'm a driven software engineering enthusiast with a knack for turning ideas into
 ## 🚀 My Featured Projects
 
 Explore some of my proudest creations:
+### 🌐 [Rest Api with Loging Auth on NestJs](https://github.com/VarScript/project-nest-api)
+Rest server with Nestjs and prisma with Jwt
 
-### 🌐 [Rest server with Node.js](https://github.com/VarScript/project-restserver-nodejs)
-This is a Rest Server built on the Node.js Zero to Expert course on Udemy. It has the CRUD matrix (Create, Read, Update and Delete). It is make with Postman, an application that we are permitted tested pettition HTTPS reques
-
-### 🚀 [Bill system](https://github.com/VarScript/project-bill-system)
+### 🚀 [Bill system on NestJs](https://github.com/VarScript/project-bill-system)
 Project to develop an API with NestJS that will manage a billing system. The main objective is to create a platform that allows the creation, consultation, update and deletion of third party invoices, invoices, concepts and invoice details. TypeORM to interact with a local MySQL database.
 
-### 🌐 [Rest server with Nestjs](https://github.com/VarScript/project-nest-api)
-Rest server with Nestjs and prisma with Jwt
+### 🌐 [Rest Api On Node.js](https://github.com/VarScript/project-restserver-nodejs)
+This is a Rest Server built on the Node.js Zero to Expert course on Udemy. It has the CRUD matrix (Create, Read, Update and Delete). It is make with Postman, an application that we are permitted tested pettition HTTPS reques
 
 ### 🚀 [Portfolio](https://varscript.github.io)
 This is my personal portfolio where you will find more of my academic and professional information.
