@@ -15,9 +15,12 @@
 I'm a driven software engineering enthusiast with a knack for turning ideas into reality through code. Currently, I'm diving deep into the world of web development and honing my skills in NestJS with TypeScript.
 
 <!-- Featured Projects Section -->
-## 🚀 My Featured Projects
+## 💻 My Featured Projects
 
 Explore some of my proudest creations:
+### 🚀 [Tech List on NestJs with GraphQl](https://github.com/VarScript/project-tech-list)
+Tech list manages users, items and lists. Users can register and authenticate, with the ability to update their information and lock accounts. You can create, update and delete items, associating them with lists. The application uses a PostgreSQL database managed with Docker, and TablePlus as a database administration tool. Technologies such as TypeORM, Yarn for dependency management, Class Validator for data validation, Jwt for authentication and ValidationPipe for data validation in requests were used.
+
 ### 🌐 [Rest Api with Loging Auth on NestJs](https://github.com/VarScript/project-nest-api)
 The Nest.js application is a user and bookmark management platform that offers a set of essential functionalities. Users can securely register (signup) and subsequently log in (signin) using JWT tokens for authentication. Additionally, users can access and edit their profile information as needed.
 
@@ -42,10 +45,10 @@ I've had the privilege of working on exciting projects and learning from industr
 
 My toolkit includes:
 
-- **Languages**: TypeScript, JavaScript, Java and more.
+- **Languages**: TypeScript, JavaScript, Java, C++ and more.
 - **Frameworks**: NestJS, SpringBoot, and more.
-- **Databases**: MongoDB, MySQL, and more.
-- **Tools**: Git, VS Code, and more.
+- **Databases**: MongoDB, MySQL, PostgreSQL and more.
+- **Tools**: Git, VS Code, Intellij IDEAand more.
 
 <!-- Contact Section -->
 ## 📫 Let's Connect!
